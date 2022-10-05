@@ -1,0 +1,4 @@
+#Tue Oct 04 01:13:18 AMT 2022
+base.0=C\:\\Users\\fred1\\Projetos\\punkapi_beer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
